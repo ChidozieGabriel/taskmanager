@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">myProjects</string>
+    <string name="date_format"><u>16/12/2019</u></string>
+
+    <!-- Rate spinner-->
+    <string-array name="rate_array">
+        <item>Trivial</item>
+        <item>Important</item>
+    </string-array>
+
+    <!-- Category spinner-->
+    <string-array name="category_array">
+        <item>Trivial</item>
+        <item>Important</item>
+    </string-array>
+
+    <!-- Duration spinner-->
+    <string-array name="duration_array">
+        <item>secs</item>
+        <item>mins</item>
+        <item>hrs</item>
+        <item>days</item>
+        <item>wks</item>
+        <item>months</item>
+        <item>yrs</item>
+    </string-array>
+
+    <string name="tab_uncompleted">Uncompleted (%1$d)</string>
+    <string name="tab_completed">Completed (%1$d)</string>
+
+    <string name="time_past">%1$s: %2$d ago</string>
+    <string name="time_remaining">%1$s: %2$d</string>
+
+    <string name="empty_uncompleted">There are no uncompleted projects</string>
+    <string name="empty_completed">There are no completed projects</string>
+    <string name="hint_new_project">New Project</string>
+    <string name="button_ok">OK</string>
+    <string name="button_ok_new"><![CDATA[OK&New]]></string>
+    <string name="button_back">Back</string>
+    <string name="textView_finish_date">Finish Date</string>
+    <string name="textView_category">Category</string>
+    <string name="textView_title">Title</string>
+
+
+</resources>

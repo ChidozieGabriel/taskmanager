@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#bfbfbf</color>
+    <color name="colorPrimary">#73a6bf</color>
+    <color name="colorAccent">#287337</color>
+
+    <!-- Normal -->
+    <color name="colorNeutral">#808080</color>
+    <color name="colorNeutralLightS">#a6a6a6</color>
+    <color name="colorNeutralLightB">#cccccc</color>
+    <color name="colorNeutralDarkS">#595959</color>
+    <color name="colorNeutralDarkB">#333333</color>
+
+    <!-- Important -->
+    <color name="colorImportant">#4c99bf</color>
+    <color name="colorImportantLightS">#73a6bf</color>
+    <color name="colorImportantLightB">#61c2f2</color>
+    <color name="colorImportantDarkS">#268cbf</color>
+    <color name="colorImportantDarkB">#38708c</color>
+
+    <!-- Urgent -->
+    <color name="colorUrgent">#bf4c56</color>
+    <color name="colorUrgentLightS">#bf7379</color>
+    <color name="colorUrgentLightB">#f2616d</color>
+    <color name="colorUrgentDarkS">#bf2633</color>
+    <color name="colorUrgentDarkB">#8c383f</color>
+
+    <!-- Completed -->
+    <color name="colorCompleted">#56bf4c</color>
+    <color name="colorCompletedLightS">#79bf73</color>
+    <color name="colorCompletedLightB">#6df261</color>
+    <color name="colorCompletedDarkS">#33bf26</color>
+    <color name="colorCompletedDarkB">#3f8c38</color>
+
+    <!-- Marker-->
+    <color name="markerNeutral">@color/colorNeutralDarkB</color>
+    <color name="markerUrgent">@color/colorUrgentDarkB</color>
+    <color name="markerDeadline">#e2b244</color>
+    <color name="markerCompleted">@color/colorCompletedDarkB</color>
+    <color name="markerImportant">@color/colorImportantDarkB</color>
+    
+    <!-- Divider-->
+    <color name="dividerNeutral">@color/colorNeutralLightB</color>
+    <color name="dividerUrgent">@color/colorUrgentLightB</color>
+    <color name="dividerCompleted">@color/colorCompletedLightB</color>
+    <color name="dividerImportant">@color/colorImportantLightB</color>
+
+    <!-- Checkbox -->
+    <color name="checkbox_selected">@color/colorCompletedLightB</color>
+
+</resources>
